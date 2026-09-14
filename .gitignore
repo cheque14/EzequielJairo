@@ -1,0 +1,9 @@
+# Template original (referencia; no versionar)
+startbootstrap-sb-admin-gh-pages/
+
+# Sistema / IDE
+.DS_Store
+.atl/
+*.log
+.idea/
+.vscode/
